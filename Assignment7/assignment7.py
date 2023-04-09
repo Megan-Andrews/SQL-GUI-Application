@@ -4,7 +4,7 @@ from tkinter import ttk
 import secrets
 import string
 
-conn = pyodbc.connect('driver={ODBC Driver 18 for SQL Server};server=cypress.csil.sfu.ca;uid=s_maa160;pwd=4qH4yNReNqLFr76H;Encrypt=yes;TrustServerCertificate=yes')
+conn = #something
 cur = conn.cursor()
 #__hr-GtD9qh8_sYSGTRqXw
 
